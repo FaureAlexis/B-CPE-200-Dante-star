@@ -34,9 +34,9 @@ Then we follow the left wall until the exit
 
 ## Results
 
-TA : 65%
-Coding style : No errors
-Unit tests coverage: 71.7%
+- TA : 65%
+- Coding style : No errors
+- Unit tests coverage: 71.7%
 
 ### Authors
 
